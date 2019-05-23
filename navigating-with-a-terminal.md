@@ -136,3 +136,5 @@ Now that you know the basics of navigating the file system on your machine with 
 That's it! You know all the basics you need to know in order to get started learning Python!
 
 ## [Next... Part 1](part1.md)
+
+### [Previous... Installing Python and VS Code](installing-python-and-vscode.md)

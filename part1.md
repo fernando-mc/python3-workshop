@@ -14,3 +14,10 @@ So, with the above example you could enter type this line in at the >>> prompt i
 
 Tip: Don’t copy and paste commands – type them out. You’ll learn far more if you take the time to type everything yourself.
 
+
+
+
+
+## [Next... Part 2](part2.md)
+
+### [Previous... Navigating with a Terminal](navigating-with-a-terminal.md)

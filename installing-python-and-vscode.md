@@ -8,11 +8,11 @@ First, we'll install the Python interpreter for our operating system. Then, we'l
 
 There are different ways to install Python interpreter on our machines. It's possible you have already attempted to Python, or it might have already come with your computer. In order to make sure the rest of the tutorial is helpful, here are some instructions to make sure you install it in a way that the rest of this guide expects.
 
-Follow the instructions for your operating system:
+Open up the instructions for your operating system in a new tab and follow along with them:
 
-- Windows
-- Mac
-- Linux
+- [Windows](/installation/windows-installation.md)
+- [Mac](/installation/mac-installation.md)
+- [Linux](/installation/linux-installation.md)
 
 When you're done following the instructions for your operating sytem, you can go ahead and move on to the next step!
 
@@ -46,3 +46,5 @@ From there, you can search for "Python" and install the Python extension that co
 With this taken care of, you're ready to begin learning Python with one of the most popular development tools out there!
 
 ## [Next... Navigating with a Terminal](navigating-with-a-terminal.md)
+
+### [Previous... Introduction](introduction.md)
