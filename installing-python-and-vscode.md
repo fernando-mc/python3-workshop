@@ -44,4 +44,4 @@ From there, you can search for "Python" and install the Python extension that co
 
 With this taken care of, you're ready to begin learning Python with one of the most popular tools out there.
 
-## [Next... Part 1](part1.md)
+## [Next... Navigating with a Terminal](navigating-with-a-terminal.md)

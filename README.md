@@ -1,17 +1,19 @@
-# Table of Contents
+# A Complete Beginner's Introduction to Python
 
-## [Introduction](introduction.md)
+## Table of Contents
 
-## [Installation](installing-python-and-tools.md)
+### [Introduction](introduction.md)
 
-## [Part 1](part1.md)
+### [Installation](installing-python-and-tools.md)
+
+### [Part 1](part1.md)
 
 - Math
 - Modulus
 - Order of Operations
 - Types
 
-## [Part 2](part2.md)
+### [Part 2](part2.md)
 
 - Variables
 - Strings and Concatenation
@@ -19,30 +21,30 @@
 - Quotes
 - Practice Exercises
 
-## [Part 3](part3.md)
+### [Part 3](part3.md)
 
 - Comments and new lines
 - Python Scripts
 - Booleans
 - Equality
 
-## [Part 4](part4.md)
+### [Part 4](part4.md)
 
 - Flow Control - if 
 - Flow Control - if, else
 - Flow Control - if, elif, else
 - Functions
 
-## [Part 5](part5.md) 
+### [Part 5](part5.md) 
 
 - The Python Standard Library
 - pip, venv, and depdencies
 - Installing `Twython`
 - Installing `requests`
 
-## [Part 6](part6.md)
+### [Part 6](part6.md)
 
 - Using `requests`
 - Using `Twython`
 - Getting data from the random foxes API
-- 
+
