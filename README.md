@@ -4,7 +4,7 @@
 
 ### [Introduction](introduction.md)
 
-### [Installation](installing-python-and-tools.md)
+### [Installation](installing-python-and-vscode.md)
 
 ### [Part 1](part1.md)
 
