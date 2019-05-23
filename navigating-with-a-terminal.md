@@ -2,7 +2,7 @@
 
 ## The Filesystem 
 
-The way your computer organizes storage is called a filesystem. The filesystem on your computer is like a tree made up of folders (also called "directories") and "files". The highest point in the tree is the root directory located at `/`. Everything you can access on your computer lives within the sub-directories of this root directory.
+The way your computer organizes storage is called a filesystem. The filesystem on your computer is like a tree made up of folders (also called "directories") and "files". On Mac and Linux machines, the highest point in the tree is the root directory located at `/`. For the purposes of this tutorial, the closest Windows equivalent is the top of the C drive at: `C:\`. Everything you can access on your computer lives within the sub-directories of this root directory.
 
 We often navigate the filesystem graphically by clicking on graphical folders in programs like Finder or Windows Explorer where we can explore different files and folders. We can do the exact same navigation from the command line.
 
