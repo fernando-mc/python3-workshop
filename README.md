@@ -4,7 +4,9 @@
 
 ### [Introduction](introduction.md)
 
-### [Installation](installing-python-and-vscode.md)
+### [Installing Python and VS Code](installing-python-and-vscode.md)
+
+### [Navigating with a Terminal](navigating-with-a-terminal.md)
 
 ### [Part 1](part1.md)
 

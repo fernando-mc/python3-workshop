@@ -8,15 +8,11 @@ As you go through this guide, you will see different sections that look like thi
 
 `my_name = "Fernando"`
 
-You'll similar fonts to this throughout the internet. That sort of style indicates that it is code of some sort. In this particular guide, it will usually reference Python code that we can enter into the Python interpreter.
+You'll similar fonts to this throughout the internet when looking at programming guides. That sort of font style indicates that it is code of some sort. In this particular guide, it will usually reference Python code that we can enter into the Python interpreter.
 
-So, with the above example you could enter type this line in at the >>> prompt in your Python shell. Simply enter the line, hit Return or Enter after every line you enter, and note the output (although sometimes there won’t be any!).
+So, with the above example, type our the line of code at the `>>>` prompt in your Python shell. Simply type the code out and then hit Return or Enter after every line and then note the output (although sometimes there won’t be any!).
 
-Tip: Don’t copy and paste commands – type them out. You’ll learn far more if you take the time to type everything yourself.
-
-
-
-
+Important: For now, don’t copy and paste any commands. When you type them out by hand you'll learn a lot more!
 
 ## [Next... Part 2](part2.md)
 
