@@ -12,7 +12,7 @@ Python is, in my opinion, the most welcoming programming langauge. Both in terms
 
 Saying hello with python is as simple as:
 
-```py
+```
 >>> print("Hello!")
 Hello!
 ```
