@@ -46,7 +46,7 @@ For now, here are the commands you'll need:
 - `pwd` prints the full directory path to your current directory. It stands for "print working directory." This command wont work in the Command Prompt, but you also wont need it because Command Prompt and PowerShell show you what directory you're in by default.
 - `cd` moves you into a new directory (it stands for “change directory”).
 - `cd folder_name` Go into the `folder_name` directory.
-- `cd ..` Go up one level in the folder heirarchy.
+- `cd ..` Go up one level in the folder hierarchy.
 
 The `dir` command will also work with PowerShell.
 

@@ -45,7 +45,7 @@ You should know some of the basics of using computers as a non-programmer. This 
 
 You will also need to have a "real computer" that you have full permissions over. 
 
-What I mean by this is that you won't be able to use a smartphone, iPad, or graphing calculator to following along (at least none of the graphing calculators I've ever used before). You will need a computer that has a Windows, Mac, or Linux operating system installed. Preferrably, you'll have a more modern version of any of those operating systems. This is because the more ancient your operating system, the more difficult it will be to garuntee it will work with the modern tools used in this course.
+What I mean by this is that you won't be able to use a smartphone, iPad, or graphing calculator to following along (at least none of the graphing calculators I've ever used before). You will need a computer that has a Windows, Mac, or Linux operating system installed. Preferrably, you'll have a more modern version of any of those operating systems. This is because the more ancient your operating system, the more difficult it will be to guarantee it will work with the modern tools used in this course.
 
 Additionally, your computer, regardless of the operating system will require administrator priviliges so that you can download and install programs and software packages.  
 
@@ -61,6 +61,6 @@ You should assume that that indicates you need to type it into your Terminal, or
 
 `>>> import time`
 
-That means you should type the code that follows it into the Python interpreter (more on the Terminal/Comand Prompt vs. the Python interpreter later).
+That means you should type the code that follows it into the Python interpreter (more on the Terminal/Command Prompt vs. the Python interpreter later).
 
 ## [Next... Installing Python and VS Code](installing-python-and-vscode.md)

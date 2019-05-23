@@ -6,7 +6,7 @@ First, we'll install the Python interpreter for our operating system. Then, we'l
 
 ## Installing Python on Your Machine
 
-There are different ways to install Python interpreter on our machines. It's possible you have already attempted to Python, or it might have already come with your computer. In order to make sure the rest of the tutorial is helpful, here are some instructions to make sure you install it in a way that the rest of this guide expects.
+There are different ways to install Python interpreter on our machines. It's possible you have already attempted to install Python, or it might have already come with your computer. In order to make sure the rest of the tutorial is helpful, here are some instructions to make sure you install it in a way that the rest of this guide expects.
 
 Open up the instructions for your operating system in a new tab and follow along with them:
 

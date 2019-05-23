@@ -2,7 +2,7 @@
 
 ## Part 1
 
-With Python v3.7.4 and VS Code installed we can get stardted learning Python!
+With Python v3.7.4 and VS Code installed we can get started learning Python!
 
 As you go through this guide, you will see different sections that look like this:
 
