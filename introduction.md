@@ -8,7 +8,7 @@ By reading this, you'll learn about topics that range from just getting Python i
 
 ### About Python
 
-Python is, in my opinion, the most welcoming programming langauge. Both in terms of the community around it and the language's syntax itself. 
+Python is, in my opinion, the most welcoming programming language. Both in terms of the community around it and the language's syntax itself. 
 
 Saying hello with python is as simple as:
 
@@ -45,9 +45,9 @@ You should know some of the basics of using computers as a non-programmer. This 
 
 You will also need to have a "real computer" that you have full permissions over. 
 
-What I mean by this is that you won't be able to use a smartphone, iPad, or graphing calculator to following along (at least none of the graphing calculators I've ever used before). You will need a computer that has a Windows, Mac, or Linux operating system installed. Preferrably, you'll have a more modern version of any of those operating systems. This is because the more ancient your operating system, the more difficult it will be to guarantee it will work with the modern tools used in this course.
+What I mean by this is that you won't be able to use a smartphone, iPad, or graphing calculator to following along (at least none of the graphing calculators I've ever used before). You will need a computer that has a Windows, Mac, or Linux operating system installed. Preferably, you'll have a more modern version of any of those operating systems. This is because the more ancient your operating system, the more difficult it will be to guarantee it will work with the modern tools used in this course.
 
-Additionally, your computer, regardless of the operating system will require administrator priviliges so that you can download and install programs and software packages.  
+Additionally, your computer, regardless of the operating system will require administrator privileges so that you can download and install programs and software packages.  
 
 ### A Quick Note on Syntax
 
