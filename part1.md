@@ -84,7 +84,7 @@ You can also use the double asterisk operator to signify exponents.
 3 * 3 * 3
 ```
 
-#### Order of Operations
+### Order of Operations
 
 The order of operations in Python is exactly the same as it was in your math classes! If you remember, the acronym PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction) determines the order operations will take place in.
 
@@ -95,7 +95,7 @@ The order of operations in Python is exactly the same as it was in your math cla
 2 ** (2 + 2)
 ```
 
-#### Types
+### Types
 
 Because we jumped straight into some of the basics of Python math, we skipped over a few concepts, including the concept of types. In Python, the different things we work with have "types". We can use a helpful Python function (more on functions later!) called `type` that allows us to find out what types the things we're working with are. Here's how:
 
@@ -114,7 +114,7 @@ I also mentioned "functions" without explaining what those are. We'll write and 
 
 In the case above, `type` is the name of the function, and it takes one argument (the thing we want to figure out the type of). We first gave it an argument of `1` and then give it an argument of `1.0`.
 
-#### Python Command History
+### Python Command History
 
 Before we move on to the next section, try pressing the up arrow key on your keyboard. Python should remember the previous things you typed and show them to you! This can be especially useful if you want to go back to previous line and rerun it or fix something before running it again.
 

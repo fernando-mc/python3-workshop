@@ -46,7 +46,7 @@ first_name = "Fernando"
 
 Projects develop naming conventions, so multi-word identifiers may use underscores (like `days_in_year`), or "camel case" (like `kilosOfRice`). The most important thing is to be consistent within a project, because it makes the code more readable.
 
-#### Strings
+### Strings
 
 So far we’ve seen two data types: *integers* and *floats*. Another useful data type is a *string*, which is just what Python calls a bunch of characters (like numbers, letters, whitespace, and punctuation) put together between quotation marks:
 
@@ -69,7 +69,7 @@ You can assign a string value to a variable:
 my_car_brand = "Mazda"
 ```
 
-#### String Concatenation
+### String Concatenation
 
 You can concatenate (join) strings together using the `+` sign:
 
@@ -108,7 +108,7 @@ str(5.34)
 str("Ice cream")
 ```
 
-#### Sting Length
+### Sting Length
 
 There’s another useful function that works on strings called `len()`. This returns the length of a string as an integer.
 
@@ -119,7 +119,7 @@ performer = "Prince"
 len(performer)
 ```
 
-#### Quotes
+### Quotes
 
 We've been using double quotes around your strings, but either double or single quotes are valid in Python:
 
@@ -154,7 +154,7 @@ str = "Fernando said, \"Python is fun!\""
 print(str)
 ```
 
-#### Practice Exercises
+### Practice Exercises
 
 Let's take a look at a couple of exercises. Read the following lines of code, but don't execute them! Try to figure out what they will do. Write them out on paper or type them out in a text document if you need to. Then type them in your terminal and execute them to see what happens.
 
