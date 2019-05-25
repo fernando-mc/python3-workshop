@@ -150,9 +150,11 @@ or we can *escape* the quote with a backslash:
 
 The backslash is a special character that tells Python to treat the next character literally, not as part of the syntax or code. Thus, you can do things like this:
 ```py
-str = "Fernando said, \"Python is fun!\""
-print(str)
+sentence = "Fernando said, \"Python is fun!\""
+print(sentence)
 ```
+
+*By the way, in Python 3, print is another function that prints out a string for us!*
 
 ### Practice Exercises
 
