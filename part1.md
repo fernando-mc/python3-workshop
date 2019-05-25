@@ -8,7 +8,7 @@ As you go through this guide, you will see different sections that look like thi
 
 `my_name = "Fernando"`
 
-You'll similar fonts to this throughout the internet when looking at programming guides. That sort of font style indicates that it is code of some sort. In this particular guide, it will usually reference Python code that we can enter into the Python interpreter.
+You'll find similar fonts to this throughout the internet when looking at programming guides. That sort of font style indicates that it is code of some sort. In this particular guide, it will usually reference Python code that we can enter into the Python interpreter.
 
 So, with the above example, type our the line of code at the `>>>` prompt in your Python shell. Simply type the code out and then hit Return or Enter after every line and then note the output (although sometimes there won’t be any!).
 

@@ -164,7 +164,7 @@ def myFunction(my_string, myInteger):
 
 Parameters should have names that usefully describe what they are used for in the function. 
 
-**Note:** The words parameters and arguments are seemingly interchangeable in reference the input to functions. The distinction isn't really important right now, but if you're curious: in function signatures the input is called parameters, and when you are calling the function the input is called arguments.
+**Note:** The words parameters and arguments are seemingly interchangeable in reference to the input to functions. The distinction isn't really important right now, but if you're curious: in function signatures the input is called parameters, and when you are calling the function the input is called arguments.
 
 #### Step 2: Do useful work inside the function
 
