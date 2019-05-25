@@ -12,6 +12,7 @@
 
 - Math
 - Modulus
+- Exponents
 - Order of Operations
 - Types
 
@@ -39,14 +40,11 @@
 
 ### [Part 5](part5.md) 
 
-- The Python Standard Library
-- pip, venv, and depdencies
-- Installing `Twython`
-- Installing `requests`
+- Using libraries
+- Virtual environments with `venv`
+- Installing packages with `pip`
 
 ### [Part 6](part6.md)
 
-- Using `requests`
-- Using `Twython`
-- Getting data from the random foxes API
-
+- APIs Explained
+- Project Time!
