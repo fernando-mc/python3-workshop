@@ -13,21 +13,21 @@
 - Math
 - Modulus
 - Exponents
-- Order of Operations
+- Order of operations
 - Types
 
 ### [Part 2](part2.md)
 
 - Variables
-- Strings and Concatenation
-- String Length with `len()`
+- Strings and concatenation
+- String length with `len()`
 - Quotes
-- Practice Exercises
+- Practice exercises
 
 ### [Part 3](part3.md)
 
 - Comments and new lines
-- Python Scripts
+- Python scripts
 - Booleans
 - Equality
 
@@ -46,5 +46,9 @@
 
 ### [Part 6](part6.md)
 
-- APIs Explained
-- Project Time!
+- Web APIs explained
+- Project time!
+
+### Now What?
+
+- What to do after this tutorial
