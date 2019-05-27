@@ -6,7 +6,7 @@
 
 Python libraries are one of the most amazing things about Python. They are bits of code that the developers of the Python programming language decided could be useful to Python developers and included for us with Python!
 
-Go ahead and open up the Python interpreter now in the VS Code terminal with `python3`.
+Go ahead and open up the Python interpreter now in the VS Code Terminal.
 
 Inside the terminal, type this out:
 
@@ -27,11 +27,13 @@ A Python virtual environment is basically a nice clean workshop where you can bu
 
 So how do we use venv? Well, we start from the command line. In your VS Code Terminal navigate to the folder for your Python project and type out this command:
 
-`python3 -m venv venv`
+`python3 -m venv venv` (For Linux/Mac)
+
+`py -m venv venv` (For Linux/Mac)
 
 Let's break this command down into it's different parts:
 
-- `python3` - We start with `python3` to access the various functionality of Python 3.
+- `python3`/`py` - We start with this to access the various functionality of Python 3.
 - `-m` is a 'flag' that is added to the command to specify the value following it will be a Python "Module" that we can do something with. Modules are files that contain useful bits of Python code that we can use again.
 - The first `venv` is the name of the Python 3 module we want to use.
 - The second `venv` could also be `penguin` or `flamingo` or anything else we wanted to name our virtual environment.
@@ -44,21 +46,23 @@ That `venv` directory is our new virtual environment! Now, the last thing we nee
 
 On Mac/Linux you can run `source venv/bin/activate`.
 
-On Windows you can run `venv\Scripts\activate`.
+On Windows in Command Prompt (`cmd` in the VS Code terminal dropdown), run `venv\Scripts\activate`.
 
-Once those commands are run you should see `(venv)` appear to the left of your Terminal prompt. This means you have created and activated your virtual environment correctly!
+On Windows with PowerShell you will likely experience an error running the above command. So, before running the next command type out `cmd` and hit enter. That should transition you into the Command Prompt `cmd` shell which shouldn't have the same issue. Then, run `venv\Scripts\activate`. Note, that now that you are in the Command Prompt shell, commands like `ls` will no longer work - you'll need to use `dir` and the equivalent Command Prompt commands instead.
+
+Once the commands are run you should see `(venv)` appear to the left of your Terminal prompt. This means you have created and activated your virtual environment correctly!
 
 Now that the environment is turned on, you're actually using an entirely different installation of Python 3 that lives inside this folder. Also, you can now install Python packages (more on these in just a sec!) in this virtual environment. 
 
 #### What Python am I using?
 
-Try this, type out: `which python3` (Linux/Mac) or `where python3` (Windows). `which` and `where` are commands that let you know what you're working with when you type out a command into the terminal. When you hit enter, you should see a result that includes the `venv` directory you just created.
+Try this, type out: `which python3` (Linux/Mac) or `where python` (Windows). `which` and `where` are commands that let you know what you're working with when you type out a command into the terminal. When you hit enter, you should see a result that includes the `venv` directory you just created.
 
 Now try this, turn off the virtual environment by typing out `deactivate` and pressing enter. You should notice the `(venv)` disappear from your Terminal prompt.
 
-Then run the same `which python3` or `where python3` again. It should give you a different result that doesn't include `venv`. This means the installation of Python it is referencing lives somewhere else on your computer.
+Then run the same `which python3` or `where python` again. It should give you a different result that doesn't include `venv`. This means the installation of Python it is referencing lives somewhere else on your computer. Windows will sometimes show multiple locations with the `venv` environment turned on - one for the `venv` installation and one for the main installation.
 
-So what we did was to create our on little Python workshop to work in!
+So we effectively just created our own little Python workshop to work in!x1
 
 ### Installing Python Packages with pip!
 
@@ -104,7 +108,7 @@ requests==2.22.0
 urllib3==1.25.3
 ```
 
-This now shows us the installed packages and the versions of each of them. This is a great sign! To confirm the installation went well, we can open up the Python interpreter with `python3` and then type out `import requests` and hit enter.
+This now shows us the installed packages and the versions of each of them. This is a great sign! To confirm the installation went well, we can open up the Python interpreter and then type out `import requests` and hit enter.
 
 If the command doesn't throw a Traceback we've succeeded and we're ready to start using `requests` in a fun project in the next section! 
 

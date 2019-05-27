@@ -21,7 +21,7 @@ We will run the Python interpreter and Python scripts from the command prompt. W
 
 1. At the command prompt (which will look something like `C:\Users\username>`, type:
   ```
-  python
+  py
   ```
   You should see something that looks like this:
 

@@ -70,6 +70,7 @@ SECRET_ACCESS_KEY = ""
 
 translate = boto3.client(
     "translate",
+    region_name='us-east-1',
     aws_access_key_id=ACCESS_KEY,
     aws_secret_access_key=SECRET_ACCESS_KEY,
 )

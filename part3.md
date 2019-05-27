@@ -48,10 +48,10 @@ So far, we've been running code directly from the Python shell interpreter (the 
 4. In the VS Code Terminal type `exit()` into the Python interpreter and press enter. Then, make sure you navigate to the folder containing your `prince.py` file. 
 5. Once you think you're in that folder use either `ls` or `dir` (depending on your operating system) to see the files in that folder and confirm that one of them is `prince.py`.
 6. Then, type out:
+    - `python3 prince.py` (On Mac/Linux) or 
+    - `py prince.py` (On Windows)
 
-  `python3 prince.py`
-
-to run this script. Study what happens. Then go ahead and edit this file so it displays another Prince song (Look them up on [Wikipedia](https://en.wikipedia.org/wiki/Category:Prince_(musician)_songs) if you need to!). Save it and run it again.
+and press enter to run this script. Study what happens. Then go ahead and edit this file so it displays another Prince song (Look them up on [Wikipedia](https://en.wikipedia.org/wiki/Category:Prince_(musician)_songs) if you need to!). Save it and run it again.
 
 **Celebration of Learning! (AKA, a quiz)**
 
