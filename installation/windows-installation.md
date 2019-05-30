@@ -3,7 +3,7 @@
 Here's what you need to do to set up your Windows machine:
 
 1. Use [this link](https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe) to download Python.
-2. Windows may prompt you on whether you want to run or install Python. Click **Run** or **Yes** when these prompts may appear. Otherwise, save the file to your computer and double-click to start the installer.
+2. Windows may prompt you on whether you want to run or install Python. Click **Run** or **Yes** when these prompts may appear. Otherwise, save the file to your computer and double-click to start the installer. If you see this message: "The TARGETDIR variable must be provided when invoking this installer" you may need to right click the installer and run it as an administrator.
 3. **Important!** Before pressing the "Install Now" button - Check the box to "Add Python 3.7 to PATH".
 ![Image showing the checkbox needed for adding Python to the Path.](../images/path.png)
 4. Click **Install Now**. This will also install IDLE (official Python IDE), pip (used to install Python packages), and documentation tools that will make your Python learning experience much easier. 
