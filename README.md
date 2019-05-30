@@ -47,7 +47,38 @@
 ### [Part 6](part6.md)
 
 - Web APIs explained
-- Project time!
+- Using the Have I Been Pwned API
+
+### [Part 7](part7.md)
+- Lists
+- Creating lists
+- Working with lists
+- Tuples
+
+### [Part 8](part8.md)
+- Loops - for, while
+- Nested Loops
+- range()
+- break
+- input()
+
+### [Part 9](part9.md)
+
+- Dictionaries
+- Creating dictionaries
+- Working with dictionaries
+
+### [Part 10](part10.md)
+
+- Writing our own module
+- Importing and using our own module
+
+### [Part 11](part11.md)
+
+- Software Development Kits (SDKs)
+- The Amazon Web Services SDK for Python - boto3
+- Installing boto3
+- Working with Amazon Translate 
 
 ### Now What?
 

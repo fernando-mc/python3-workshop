@@ -49,47 +49,6 @@ If you don't see any information, you're one of the lucky few of us who has neve
 
 The result of `response.text` is a big string of information in a format called JSON. But if you peek closely at it you can see the name of the breach and other details related to it. Congratulations! You just learned how to use your first API with Python!
 
-If you want to learn more about how to dig deeper into this data I'll leave a few suggested readings at the end of this tutorial!
-
-### Bonus Project... Using Software Development Kits (SDKs) and "the cloud"! ☁️
-
-First, you'll need to exit the Python interpreter and install a new package called `boto3` with `pip`. Remember - you just did this with `requests`, give it a shot now! If you need help, just ask!
-
-Next, with `boto3` installed, open that Python interpreter back up and ask the instructor where to get the special keys you can use for this demo.
-
-Then, replace the values of the strings of the three capitalized variable names and then copy this code into your interpreter!
-
-After you've run it all once, try running `frenchify` with your own sentence to translate. Or maybe, try and write yourself a `spanishify` function. I'll give you a hint... the Spanish language code is `es`. 
-
-```python
-import boto3
-
-TEXT_TO_TRANSLATE = "Whatever you'd like!"
-ACCESS_KEY = ""
-SECRET_ACCESS_KEY = ""
-
-translate = boto3.client(
-    "translate",
-    region_name='us-east-1',
-    aws_access_key_id=ACCESS_KEY,
-    aws_secret_access_key=SECRET_ACCESS_KEY,
-)
-
-def frenchify(text):
-    result = translate.translate_text(
-        Text=text, 
-        SourceLanguageCode="en",
-        TargetLanguageCode="fr"
-    )
-    print(result.get('TranslatedText'))
-
-frenchify(TEXT_TO_TRANSLATE)
-```
-
-Note: This project is a bit more advanced with some new concepts, don't be afraid to try things out. Also note that in order to do this project past the time of the workshop you will need to create your own [AWS account](https://aws.amazon.com/).
-
-So what next?! Let's find out.
-
-## [Next... Now What?](nowwhat.md)
+## [Next... Part 7](part7.md)
 
 ### [Previous... Part 5](part5.md)
