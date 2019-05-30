@@ -50,12 +50,14 @@
 - Using the Have I Been Pwned API
 
 ### [Part 7](part7.md)
+
 - Lists
 - Creating lists
 - Working with lists
 - Tuples
 
 ### [Part 8](part8.md)
+
 - Loops - for, while
 - Nested Loops
 - range()
