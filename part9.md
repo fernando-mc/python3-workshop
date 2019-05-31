@@ -34,13 +34,28 @@ friends_numbers["Che"] = "777-222-4545"
 print(friends_numbers)
 ```
 
-Also, similarly to lists, you can `pop` elements off the dictionary:
+#### pop and Dictionaries
+
+Similarly to lists, you can `pop` elements off the dictionary:
 
 ```python
 friends_numbers.pop("James")
 ```
 
 This will return James' number and remove him and his number from the dictionary.
+
+#### Dictionary `keys()` and `values()`
+
+You can also get all the keys from a dictionary by adding `.keys()` to the end or all the values by adding a `.values()`. Both of these will return an object that you can iterate over but that you can't manipulate in the same way as a list unless you explicitly change it into one with `list()`.
+
+```python
+friends_numbers.keys()
+
+result = friends_numbers.values()
+result[0] # This will fail
+new_result = list(result)
+new_result[0] # This will work!
+```
 
 ## [Part 10](part10.md)
 
