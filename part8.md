@@ -139,6 +139,6 @@ print("Hello, " + your_name + ", nice to meet you!")
 
 This makes much more sense in the context of running a Python script so let's paste the above code into a new file - `greeting.py` and then run the file.
 
-## [Part 9](part9.md)
+## [Next... Part 9](part9.md)
 
 ### [Previous... Part 7](part7.md)

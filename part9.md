@@ -57,6 +57,6 @@ new_result = list(result)
 new_result[0] # This will work!
 ```
 
-## [Part 10](part10.md)
+## [PNext... Part 10](part10.md)
 
 ### [Previous... Part 8](part8.md)
